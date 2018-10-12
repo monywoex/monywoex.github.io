@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     post 
 title:      嵌入HTML5视频的例子
 subtitle:   这只是一个例子
 date:       
